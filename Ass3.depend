@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640550237 source:d:\university\oop\ass\ass3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
